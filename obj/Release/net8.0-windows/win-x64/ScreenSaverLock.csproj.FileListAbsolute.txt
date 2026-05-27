@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\ScreenSaverLock\bin\Release\net8.0-windows\win-x64\ScreenSaverLock.exe
+C:\Users\Administrator\Desktop\ScreenSaverLock\bin\Release\net8.0-windows\win-x64\ScreenSaverLock.deps.json
+C:\Users\Administrator\Desktop\ScreenSaverLock\bin\Release\net8.0-windows\win-x64\ScreenSaverLock.runtimeconfig.json
+C:\Users\Administrator\Desktop\ScreenSaverLock\bin\Release\net8.0-windows\win-x64\ScreenSaverLock.dll
+C:\Users\Administrator\Desktop\ScreenSaverLock\obj\Release\net8.0-windows\win-x64\ScreenSaverLock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\ScreenSaverLock\obj\Release\net8.0-windows\win-x64\ScreenSaverLock.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ScreenSaverLock\obj\Release\net8.0-windows\win-x64\ScreenSaverLock.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ScreenSaverLock\obj\Release\net8.0-windows\win-x64\ScreenSaverLock.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ScreenSaverLock\obj\Release\net8.0-windows\win-x64\ScreenSaverLock.dll
+C:\Users\Administrator\Desktop\ScreenSaverLock\obj\Release\net8.0-windows\win-x64\refint\ScreenSaverLock.dll
+C:\Users\Administrator\Desktop\ScreenSaverLock\obj\Release\net8.0-windows\win-x64\ScreenSaverLock.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\ScreenSaverLock\obj\Release\net8.0-windows\win-x64\ref\ScreenSaverLock.dll
+C:\Users\Administrator\Desktop\ScreenSaverLock\obj\Release\net8.0-windows\win-x64\ScreenSaverLock.ControlForm.resources
+C:\Users\Administrator\Desktop\ScreenSaverLock\obj\Release\net8.0-windows\win-x64\ScreenSaverLock.LockForm.resources
+C:\Users\Administrator\Desktop\ScreenSaverLock\obj\Release\net8.0-windows\win-x64\ScreenSaverLock.MainForm.resources
+C:\Users\Administrator\Desktop\ScreenSaverLock\obj\Release\net8.0-windows\win-x64\ScreenSaverLock.csproj.GenerateResource.cache

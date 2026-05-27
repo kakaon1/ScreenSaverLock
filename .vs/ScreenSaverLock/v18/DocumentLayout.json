@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\ScreenSaverLock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43A0C84D-D35D-9AA2-1036-9FA1F3B44D5F}|ScreenSaverLock.csproj|c:\\users\\administrator\\desktop\\screensaverlock\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43A0C84D-D35D-9AA2-1036-9FA1F3B44D5F}|ScreenSaverLock.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A0C84D-D35D-9AA2-1036-9FA1F3B44D5F}|ScreenSaverLock.csproj|C:\\Users\\Administrator\\Desktop\\ScreenSaverLock\\controlform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43A0C84D-D35D-9AA2-1036-9FA1F3B44D5F}|ScreenSaverLock.csproj|solutionrelative:controlform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A0C84D-D35D-9AA2-1036-9FA1F3B44D5F}|ScreenSaverLock.csproj|C:\\Users\\Administrator\\Desktop\\ScreenSaverLock\\lockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43A0C84D-D35D-9AA2-1036-9FA1F3B44D5F}|ScreenSaverLock.csproj|solutionrelative:lockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A0C84D-D35D-9AA2-1036-9FA1F3B44D5F}|ScreenSaverLock.csproj|c:\\users\\administrator\\desktop\\screensaverlock\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A0C84D-D35D-9AA2-1036-9FA1F3B44D5F}|ScreenSaverLock.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A0C84D-D35D-9AA2-1036-9FA1F3B44D5F}|ScreenSaverLock.csproj|c:\\users\\administrator\\desktop\\screensaverlock\\controlform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A0C84D-D35D-9AA2-1036-9FA1F3B44D5F}|ScreenSaverLock.csproj|solutionrelative:controlform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ScreenSaverLock\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ScreenSaverLock\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T05:13:33.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControlForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ScreenSaverLock\\ControlForm.cs",
+              "RelativeDocumentMoniker": "ControlForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ScreenSaverLock\\ControlForm.cs",
+              "RelativeToolTip": "ControlForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T02:22:36.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControlForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ScreenSaverLock\\ControlForm.cs",
+              "RelativeDocumentMoniker": "ControlForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ScreenSaverLock\\ControlForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "ControlForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T02:22:35.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LockForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ScreenSaverLock\\LockForm.cs",
+              "RelativeDocumentMoniker": "LockForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ScreenSaverLock\\LockForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "LockForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T02:22:33.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ScreenSaverLock\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ScreenSaverLock\\MainForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MainForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T02:22:28.632Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
